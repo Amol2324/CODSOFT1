@@ -152,7 +152,7 @@ Movie-Genre-Prediction/
 
 ├── test_data_solution.txt
 
-├── Movie_Genre_Prediction.ipynb
+├── MOVIE_GENRE.ipynb
 
 ├── movie_genre_predictions.csv
 
